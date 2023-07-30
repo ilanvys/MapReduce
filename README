@@ -1,0 +1,13 @@
+yaelpalti,ilan.vys
+Yael Palti (318190485), Ilan Vysokovsky (207375528)
+EX: 3
+
+FILES:
+MapReduceFramework.cpp -- implementation of the MapReduceFramework library functions
+Barrier.cpp -- implementation of a barrier for thread management
+Makefile
+README
+
+REMARKS:
+
+ANSWERS:
